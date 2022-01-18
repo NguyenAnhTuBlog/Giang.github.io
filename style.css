@@ -91,9 +91,9 @@ body {
 }
 
 .sm a {
-  color: rgb(21, 255, 0);
+  color: white;
   width: 56px;
-  font-size: 22px;
+  font-size: 33px;
   transition: 0.3s linear;
 }
 
